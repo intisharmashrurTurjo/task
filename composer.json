@@ -1,0 +1,14 @@
+{
+    "name": "asus/fiver",
+    "description": "This is xlsx exporter",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SpreedSheet\\":"src/"
+        }
+    },
+    "require": {}
+
+ 
+}
