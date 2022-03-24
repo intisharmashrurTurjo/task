@@ -1,4 +1,5 @@
 <?php 
+namespace SpreedSheet;
 class Database{
     //private access modifiers
     private $db_host = "localhost";
